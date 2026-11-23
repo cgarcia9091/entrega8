@@ -19,13 +19,13 @@ Incluye el proyecto principal `blog_project` y una aplicación llamada `posts`.
 Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/cgarcia9091/entrega8.git
 ```
 
 Ingresar a la carpeta:
 
 ```bash
-cd entrega7
+cd entrega8
 ```
 
 Crear el entorno virtual:
