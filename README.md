@@ -5,9 +5,10 @@ Proyecto base de un blog web desarrollado con Django.
 
 ## Descripción
 
-Este repositorio contiene la estructura inicial de un proyecto Django para desarrollar un blog web.
-
-Incluye el proyecto principal `blog_project` y una aplicación llamada `posts`.
+- Proyecto principal blog_project.
+- Aplicación posts.
+- Templates HTML con herencia.
+- Estilos CSS.
 
 ## Requisitos
 
